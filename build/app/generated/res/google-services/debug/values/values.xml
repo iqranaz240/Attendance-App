@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">430989166935-u8c1fi1ne6quu4hsr527lo457bt7hnsr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://attendance-app-1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">430989166935</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrwGA3j2w-HeBHMyvvFxDysFPNgTcJ2cE</string>
+    <string name="google_app_id" translatable="false">1:430989166935:android:f102382e71c9a201905612</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrwGA3j2w-HeBHMyvvFxDysFPNgTcJ2cE</string>
+    <string name="google_storage_bucket" translatable="false">attendance-app-1.appspot.com</string>
+    <string name="project_id" translatable="false">attendance-app-1</string>
+</resources>
